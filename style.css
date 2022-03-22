@@ -200,6 +200,7 @@ footer img {
 
   header ul li {
     margin: 1rem 2rem;
+    padding-bottom: 2rem;
     padding: 0;
     border-bottom: 0px solid var(--border);
     transition: all 0.3s;
