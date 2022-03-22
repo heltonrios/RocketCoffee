@@ -196,6 +196,7 @@ footer img {
 
   header button {
     margin: 0;
+    display: flex;
   }
 
   header ul {
